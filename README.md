@@ -13,28 +13,34 @@
 
  ## Conhecimento (Tecnologias e Ferramentas):
 
-<div style="
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 12px;
-  margin: 20px 0;
-">
-  <img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img alt="HTML" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
-  <img alt="CSS" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
-  <img alt="Java" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img alt="Spring" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
-  <img alt="Hibernate" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg">
-  <img alt="MySQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img alt="PostgreSQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
-  <img alt="Docker" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
-  <img alt="Kubernetes" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg">
-  <img alt="Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
-  <img alt="GitHub" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
-  <img alt="GitLab" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg">
+<div>
+  <img alt="JavaScript" height="60" width="70" padding="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
+  
+  <img alt="HTML" height="60" width="70" padding="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
+  
+  <img alt="CSS" height="60" width="70" padding="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
+  
+  <img alt="Java" height="60" width="70" padding="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  
+  <img alt="Spring" height="60" width="70" padding="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
+  
+  <img alt="Hibernate" height="60" width="70" padding="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg">
+  
+  <img alt="MySQL" height="60" width="70" padding="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  
+  <img alt="PostgreSQL" height="60" width="70" padding="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
+  
+  <img alt="Docker" height="60" width="70" padding="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
+  
+  <img alt="Kubernetes" height="60" width="70" padding="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg">
+  
+  <img alt="Git" height="60" width="70" padding="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
+  
+  <img alt="GitHub" height="60" width="70" padding="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
+  
+  <img alt="GitLab" height="60" width="70" padding="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg">
 </div>
+
 
 
   ## Contatos:
